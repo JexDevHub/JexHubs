@@ -1,4 +1,4 @@
-package io.github.staudx.catalyst;
+package io.github.JexDevHub.Nebris;
 
 import io.github.staudx.catalyst.inventory.ServerSelector;
 import io.github.staudx.catalyst.listener.CataylstListener;
