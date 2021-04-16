@@ -1,5 +1,5 @@
 name: Catalyst
-main: io.github.staudx.catalyst.CatalystPlugin
+main: io.github.JexDevHub.catalyst.NebrisPlugin
 version: 1.0
 author: Staud
 description: Basic Hub Core
